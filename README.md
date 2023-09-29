@@ -5,16 +5,6 @@ title: "Proyecto Gestión Financiera 202320"
 author: "Karla Cedeño"
 format: html
 editor: visual
----
-
-```{r configuraciones}
-#| message: false
-#| echo: false
-# Esto ya debiera estar cargado en el proyecto en posit.cloud
-# devtools::install_github("business-science/tidyquant")
-# Loads tidyquant, lubridate, xts, quantmod, TTR, and PerformanceAnalytics
-library(tidyverse)
-library(tidyquant)  
 ```
 ## SECTOR/ TEMATICA 
 Empresas COPEC S.A. desempeña un papel esencial en la economía tanto de Chile como de la región debido a su prominente participación en el sector energético. Esta empresa está involucrada en varias facetas de la producción, distribución y comercialización de energía, lo que la convierte en un actor clave en la provisión de recursos energéticos esenciales. Su diversificación de activos es notable, ya que abarca una amplia gama de áreas energéticas, desde la explotación de petróleo y gas hasta la generación de electricidad y la inversión en energías renovables. Esta diversidad permite a Empresas COPEC S.A. tener un impacto significativo en el suministro energético tanto a nivel local como global.
