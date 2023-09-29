@@ -59,5 +59,8 @@ Por último, la ponderación otorgada al sector bancario refleja una evaluación
 ## REFERENCIAS
 
 - Empresas Copec S.A. | Empresas Copec coloca dos series de bonos por USD 207 millones
-- SANTIAGOX (bolsadesantiago.com)
-- Análisis técnico https://share.chartiq.com/LN3TYEB5117.png 
+  https://www.empresascopec.cl/noticia/empresas-copec-coloca-dos-series-de-bonos-por-usd-207-millones/ 
+- Bolsa de Santiago
+  https://www.bolsadesantiago.com/resumen_instrumento/COPEC
+- Análisis técnico
+  https://share.chartiq.com/LN3TYEB5117.png 
