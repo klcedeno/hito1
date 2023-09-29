@@ -55,3 +55,9 @@ La composición del portafolio del grupo se basa en una distribución estratégi
 El peso asignado al sector inmobiliario se justifica por las expectativas de un crecimiento sostenible a largo plazo en este sector. La inversión en bienes raíces se considera atractiva debido a la demanda constante de viviendas y propiedades, así como a la posible generación de ingresos a través de alquileres. Esta perspectiva respalda la decisión de asignar un porcentaje sustancial del portafolio al sector inmobiliario, en anticipación a un rendimiento positivo en el futuro.
 
 Por último, la ponderación otorgada al sector bancario refleja una evaluación realista de sus perspectivas de crecimiento en el contexto chileno. Se reconoce que, aunque el sector bancario es sólido y estable en el país, existe una limitación en cuanto al espacio para un crecimiento significativo. Varios bancos tienen sus operaciones principales en el extranjero, y el mercado local ya está altamente penetrado, con la mayoría de la población bancarizada. En consecuencia, se considera que el potencial de expansión en el sector bancario es más limitado en comparación con las oportunidades que ofrecen los sectores de energía y bienes raíces. Esta estrategia de asignación de activos busca maximizar el potencial de crecimiento y rendimiento del portafolio del grupo en función de las perspectivas y condiciones específicas de cada sector.
+
+## REFERENCIAS
+
+- Empresas Copec S.A. | Empresas Copec coloca dos series de bonos por USD 207 millones
+- SANTIAGOX (bolsadesantiago.com)
+- Análisis técnico https://share.chartiq.com/LN3TYEB5117.png 
