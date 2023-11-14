@@ -37,7 +37,52 @@ En su expansión internacional y operaciones en múltiples países, Empresas COP
 La calificación crediticia desempeña un papel fundamental en la emisión y gestión de la deuda de Empresas COPEC S.A. Las agencias de calificación crediticia evalúan la solidez financiera de la empresa y otorgan una calificación que refleja su capacidad para cumplir con sus compromisos de deuda. Una calificación crediticia más alta suele permitir a la empresa acceder a financiamiento a tasas de interés más favorables, lo que puede reducir los costos de su deuda. Empresas COPEC S.A. trabaja activamente en mantener una calificación crediticia sólida para fortalecer su posición en los mercados financieros y garantizar su capacidad de financiar sus operaciones y proyectos de inversión.
 ## EMISIONES 
 El proceso de emisión de deuda de Empresas COPEC S.A. es un proceso diversificado y complejo que involucra la emisión de una variedad de instrumentos financieros en mercados globales. La empresa adapta su estructura de deuda a sus necesidades y condiciones del mercado, realiza una evaluación rigurosa de riesgos, accede a mercados internacionales y utiliza instrumentos derivados para gestionar riesgos, especialmente los relacionados con las fluctuaciones de las tasas de cambio. Este enfoque permite a Empresas COPEC S.A. obtener el financiamiento necesario para sus operaciones y proyectos de inversión, al tiempo que optimiza su posición en los mercados financieros. En contraste, el procedimiento básico de emisión de deuda implica una emisión más simple de bonos o préstamos en mercados locales o internacionales con términos específicos que deben cumplirse.
+
+La forma básica para realizar una nueva emisión es reflejada en el libro Ross, Finanzas Corporativas, capítulo 20 “Emisiones Públicas de Valores”. Donde se desglosan los 5 pasos básicos para esto.
+1. Aprobación del Consejo de Administración: La aprobación fue otorgada el día de la emisión de bonos corporativos en octubre de 2022. Esto cumple con el primer paso, que implica obtener la aprobación del consejo de administración antes de proceder con la emisión.
+2. Preparación de la Declaración de Registro y Presentación ante la SEC: Se preparó información financiera fundamental histórica bajo NIIF-UE para cada ejercicio del periodo cubierto por la información financiera histórica. Esto está alineado con el segundo paso, que implica preparar la declaración de registro con información financiera relevante.
+3. Revisión por parte de la SEC y Periodo de Espera
+4. Determinación del Precio y Campaña de Venta
+5. Publicidad de la Emisión
+
 ## DERIVADOS
+
+Dado que no todas las empresas tienen derivados financieros relacionados con sus activos, para Empresas Copec S.A. (COPEC.SN). Es necesario elegir Exxon Mobil, una empresa bien establecida en el sector energético, con una presencia global, y a derivados financieros relacionados con sus acciones que se negocian en los mercados estadounidenses.
+
+PRIMER MODELO DE VALORACION (BLACK SCHOLES)
+
+![image](https://github.com/klcedeno/hito1/assets/146403849/99442cf8-be78-4dcc-99ef-aa3140c087cb)
+
+Esto significa que, según el modelo Black-Scholes-Merton, el valor teórico de la opción de compra es de aproximadamente $5.82 USD. Este valor representa el precio justo que se debería pagar por esta opción en el mercado, suponiendo que los parámetros del modelo son válidos y que no hay costos de transacción u otros factores que afecten el precio real en el mercado.
+
+MODELO BINOMIAL PARA LA VALORACIÓN DE OPCIONES
+
+1. DEFINICION
+
+El modelo binomial es un enfoque discretizado para la valoración de opciones financieras. Proporciona una forma simplificada pero efectiva de calcular el valor teórico de una opción en diferentes escenarios de precios del activo subyacente. El modelo se basa en la idea de que el precio del activo subyacente puede subir o bajar en pasos discretos durante el período de tiempo hasta el vencimiento de la opción.
+
+2. DESCRIPCIÓN MATEMÁTICA Para valorar una opción utilizando el modelo binomial, primero se divide el tiempo hasta el vencimiento en un número discreto de pasos (n). Luego, se calculan dos factores clave: la probabilidad de que el precio del activo subyacente suba (P) y la probabilidad de que baje (Q) en cada paso. Estas probabilidades se basan en la tasa de interés libre de riesgo (r) y el tamaño de los pasos.
+
+La fórmula básica para calcular el valor de una opción de compra (Call) en el modelo binomial es:
+
+![image](https://github.com/klcedeno/hito1/assets/146403849/a80912a1-94fd-431a-b0c2-c638fdcf3271)
+
+Donde:
+
+C es el valor de la opción de compra.
+n es el número de pasos en el modelo binomial.
+p es la probabilidad de que el precio suba en cada paso.
+q es la probabilidad de que el precio baje en cada paso.
+S0 es el precio actual del activo subyacente.
+u es el factor de crecimiento hacia arriba en el precio del activo subyacente.
+d es el factor de crecimiento hacia abajo en el precio del activo subyacente.
+X es el precio de ejercicio de la opción.
+
+Esto significa que, según el modelo de valoración binomial, el valor teórico de la opción de compra es de aproximadamente $8.29 USD. Este valor representa el precio justo que se debería pagar por esta opción en el mercado, suponiendo que los parámetros del modelo son válidos y que no hay costos de transacción u otros factores que afecten el precio real en el mercado.
+
+![image](https://github.com/klcedeno/hito1/assets/146403849/4f1ce94b-b98a-4d81-8368-8578f810e707)
+
+Al comparar ambos moelos se revela similitudes y diferencias entre el modelo Black-Scholes-Merton y el modelo binomial en la valoración de opciones financieras. Ambos comparten la aceptación general en el ámbito financiero y se basan en variables clave como la tasa de interés libre de riesgo, el precio de ejercicio, el tiempo hasta el vencimiento, la volatilidad del activo subyacente y el precio actual del activo subyacente al calcular el valor de una opción de compra. Sin embargo, divergen en su enfoque fundamental, ya que el Black-Scholes-Merton utiliza un enfoque continuo con fórmulas analíticas, mientras que el modelo binomial adopta un enfoque discreto con cálculos iterativos en pasos discretos. La necesidad de especificar un número de pasos en el modelo binomial introduce una diferencia adicional, afectando la precisión de los resultados en comparación con el Black-Scholes-Merton, que no requiere esta especificación. Las discrepancias en los valores calculados para la opción de compra subrayan las distintas naturalezas y aplicabilidades de estos modelos en diversos contextos financieros. En el escenario proporcionado, el Black-Scholes-Merton arroja un valor de 5.818895 USD, mientras que el modelo binomial ofrece 8.29244 USD, evidenciando las implicaciones de estas diferencias en la valoración de opciones.
 
 ## GRUPAL
 La composición del portafolio del grupo se basa en una distribución estratégica de activos, con un 50% destinado al sector de energía, un 30% al sector inmobiliario y un 20% al sector bancario. Esta asignación se considera óptima debido a diversas razones. En primer lugar, Chile posee un inmenso potencial en el sector de la energía, particularmente en el desarrollo de fuentes de energía renovable. Este enfoque refleja la creencia en que el país puede beneficiarse significativamente de las oportunidades en este ámbito, contribuyendo tanto a su crecimiento económico como a la sostenibilidad ambiental.
@@ -47,10 +92,13 @@ El peso asignado al sector inmobiliario se justifica por las expectativas de un 
 Por último, la ponderación otorgada al sector bancario refleja una evaluación realista de sus perspectivas de crecimiento en el contexto chileno. Se reconoce que, aunque el sector bancario es sólido y estable en el país, existe una limitación en cuanto al espacio para un crecimiento significativo. Varios bancos tienen sus operaciones principales en el extranjero, y el mercado local ya está altamente penetrado, con la mayoría de la población bancarizada. En consecuencia, se considera que el potencial de expansión en el sector bancario es más limitado en comparación con las oportunidades que ofrecen los sectores de energía y bienes raíces. Esta estrategia de asignación de activos busca maximizar el potencial de crecimiento y rendimiento del portafolio del grupo en función de las perspectivas y condiciones específicas de cada sector.
 
 ## REFERENCIAS
-
+- Empresas Copec S.A. Emisión de Bonos Corporativos Octubre 2022
+  https://api.mziq.com/mzfilemanager/v2/d/2c7d0209-3b35-4923-b572-0641f3455454/51dd8351-7f27-9c35-610a-b7a98a0e722a?origin=1
 - Empresas Copec S.A. | Empresas Copec coloca dos series de bonos por USD 207 millones
   https://www.empresascopec.cl/noticia/empresas-copec-coloca-dos-series-de-bonos-por-usd-207-millones/ 
 - Bolsa de Santiago
   https://www.bolsadesantiago.com/resumen_instrumento/COPEC
 - Análisis técnico
   https://share.chartiq.com/LN3TYEB5117.png 
+- ESTADÍSTICAS DEL MERCADO DE VALORES DE RENTA FIJA E INTERMEDIACIÓN FINANCIERA
+https://www.bcentral.cl/documents/33528/3448252/EMV_2021T4.pdf/314f7d98-c8ef-cb75-5a6d-5d36944ed88d?t=1647997505760
